@@ -384,22 +384,6 @@ curiango-controle-ativos/
 ### Termo de Responsabilidade
 ![Termo](screenshots/termo.pdf)
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. **Fork** o projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um **Pull Request**
-
-### Padrões de Código
-- Siga a PEP 8 para Python
-- Use nomes descritivos para variáveis e funções
-- Documente funções complexas
-- Inclua testes para novas funcionalidades
-
 ### Reportar Bugs
 Use a seção **Issues** do GitHub com:
 - Descrição clara do problema
@@ -408,28 +392,6 @@ Use a seção **Issues** do GitHub com:
 - Screenshots (se aplicável)
 - Informações do ambiente
 
-## 📋 Roadmap
-
-### Próximas Funcionalidades
-- [ ] **Mobile App**: Aplicativo nativo para iOS/Android
-- [ ] **API v2**: Nova versão com GraphQL
-- [ ] **Dashboard Avançado**: Mais métricas e gráficos
-- [ ] **Notificações Push**: Alertas em tempo real
-- [ ] **Integração com QR Code**: Identificação rápida de ativos
-- [ ] **Multi-tenancy**: Suporte a múltiples empresas
-- [ ] **Workflow de Aprovação**: Fluxo de aprovação para operações
-- [ ] **Integração com Teams/Slack**: Notificações automáticas
-
-### Melhorias Planejadas
-- [ ] **Performance**: Otimização de queries e cache
-- [ ] **Testes**: Cobertura completa de testes automatizados  
-- [ ] **Documentação**: API documentation com Swagger
-- [ ] **Kubernetes**: Deploy em cluster K8s
-- [ ] **Monitoring**: Métricas com Prometheus/Grafana
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 🙏 Agradecimentos
 
@@ -444,8 +406,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 Para suporte e dúvidas:
 
 - **Issues**: Use o sistema de issues do GitHub
-- **Email**: contato@empresa.com
-- **Documentação**: Consulte a [Wiki](wiki/) do projeto
 
 ---
 
